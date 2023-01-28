@@ -34,7 +34,7 @@ public class Ex6_9 {
 //	Ex6_12   틀렸음 d도 포함
 //	c, 
 	
-//	Ex6_13
+//	Ex6_13	
 //	b, c, d
 	
 //	Ex6_14
